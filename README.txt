@@ -7,4 +7,4 @@
 
 ### 项目内容：Java基础循环部分的测试题项目。 ###		
 
-![GitTest](https://avatars0.githubusercontent.com/u/6541847?v=3)		
+![GitTest](http://img.freehao123.com/wp-content/uploads/2016/03/2016-kongjian_8.gif)		
