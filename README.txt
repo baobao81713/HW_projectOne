@@ -7,4 +7,4 @@
 
 ### 项目内容：Java基础循环部分的测试题项目。 ###		
 
-![github](http://github.com/unicorn.png "github")		
+![GitTest](https://avatars0.githubusercontent.com/u/6541847?v=3)		
